@@ -2,7 +2,9 @@
 
 This repository is for showing how Git and GitHub work
 
-Adding a lina for rebasing example
+Adding a lina for rebasing example,
+
+more changes to myfeature
 
 ## Purpose
 
